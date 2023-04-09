@@ -14,12 +14,13 @@ We want to work on everything and beyond the following.
  
 # Why am I doing this?
 I know many will say im reinventing the rounded wheel ever, which would be correct, I'm trying to rebuild all technology with consistancy and quality. <br />
-***ADHD**
+**ADHD**<br />
 I have been diagnosed with ADHD since 10 years old. Due to this, I have experienced the following common issues.
  - Task switching issues.
  - Constant disatifaction
  - Anger issues
  - Impulsive lying
+<br />
 While having ADHD has more than quadrupled my passion for electronics and curiosity for how even atoms, humans cells replicate, why atoms have forces, etc... ADHD does have some drawbacks such as my grades dropping.
 I wish school was just more inclusive for neurodivergent people by teaching them faster since ADHD's major effects is pain from patience to the point where I ended up learning calculus my self rather than waiting for the grade.
  
